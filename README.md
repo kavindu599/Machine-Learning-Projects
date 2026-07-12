@@ -58,12 +58,15 @@ The model classifies tomato leaves into the following 10 categories:
 ## Project Pipeline
 
 PlantVillage Dataset (Kaggle)
+
         │
         ▼
 Filter Tomato Classes (10 classes)
+
         │
         ▼
 EDA — Class Distribution + Sample Images
+
         │
         ▼
 Train / Val / Test Split  (80% / 10% / 10%)
